@@ -1,0 +1,30 @@
+div {
+    background-color: lightgrey;
+}
+.language-container {
+    text-align: center;
+    padding: 40px;
+}
+h1{
+    color:orange;
+    font-family:"Roboto";
+    font-size:30px;
+    font-weight:bold;
+}
+.blue-text {
+    color: blue;
+}
+.language-description {
+    font-size: 16px;
+    font-family:"Roboto";
+}
+button {
+    width: 100px;
+    height: 30px;
+    border-width: 0px;
+    border-radius: 5px;
+    font-family:"Roboto";
+}
+#description {
+    font-size: 20px;
+}
