@@ -1,0 +1,49 @@
+.image-logo {
+    height: 36px;
+    width: 56px;
+}
+#item {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+#item1 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+#item2 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+#item3 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+.bg-container {
+    background-image: url("https://d2clawv67efefq.cloudfront.net/ccbp-responsive-website/vr-banner-bg.png");
+    background-size: cover;
+    height: 100vh;
+}
+
+.heading {
+    color: #ffffff;
+    font-size: 45px;
+    font-family: "Roboto";
+    font-weight:bold;
+
+}
+
+.button {
+    color: #ffffff;
+    background-color: #1a2137;
+    font-family:"Roboto";
+    font-weight:500;
+    font-size:18px;
+    border-radius: 4px;
+    border-width: 0px;
+    height: 45px;
+    width: 130px;
+
+}
