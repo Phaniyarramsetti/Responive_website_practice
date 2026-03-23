@@ -1,0 +1,20 @@
+.bg-container {
+    background-color: #f9fbfe;
+    background-size: cover;
+
+}
+.heading {
+    color: #1f2933;
+    font-size: 26px;
+    font-weight: bold;
+    font-family: "Roboto";
+}
+.paragraph {
+    color: #323f4b;
+    font-size: 20px;
+    font-family: "Roboto";
+}
+.image {
+    height: 200px;
+    width: 250px;
+}

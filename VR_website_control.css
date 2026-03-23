@@ -1,0 +1,26 @@
+.image{
+    width:100%;
+    margin-bottom:10px;
+}
+.heading {
+    color: #1f2933;
+    font-family: "Roboto";
+    font-weight:700;
+    font-size: 36px;
+}
+.paragraph {
+    color: #7b8794;
+    font-family: "Roboto";
+    font-size: 20px;
+}
+.button {
+    width: 130px;
+    height: 45px;
+    background-color: #1a2137;
+    font-family:"Roboto";
+    font-weight:500;
+    font-size:18px;
+    color: #ffffff;
+    border-width: 0px;
+    border-radius: 4px;
+}
