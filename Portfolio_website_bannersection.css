@@ -1,0 +1,41 @@
+.logo{
+    border-color: #4b6cc1;
+    border-width: 2px;
+    font-family:"Roboto";
+    font-size:24px;
+    font-weight:700;
+    border-style:solid;
+    padding-left:10px;
+    padding-right:10px;
+    margin:8px;
+}
+.banner-section-bg-container {
+    background-color: #191a1d;
+}
+.image {
+    width: 280px;
+    margin-bottom:10px;
+}
+.heading {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 45px;
+    font-weight:300;
+}
+.paragraph {
+    color: #9aa5b1;
+    font-family: "Roboto";
+    font-size: 24px;
+}
+.style {
+    color: #4b6cc1;
+}
+.custom-button{
+    color:white;
+    background-color:#4b6cc1;
+    width:130px;
+    height:45px;
+    border-width:0px;
+    border-radius:8px;
+   
+}
