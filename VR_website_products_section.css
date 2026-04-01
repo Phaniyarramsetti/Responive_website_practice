@@ -1,0 +1,41 @@
+.bg-container {
+    background-color: #ffffff;
+    background-size: cover;
+    padding: 10px;
+}
+.heading {
+    color: #1f2933;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 20px;
+}
+.vr-container {
+    background-image: url("https://d2clawv67efefq.cloudfront.net/ccbp-responsive-website/vr-products-headset-img.png");
+    background-size: cover;
+}
+.vr-controllers {
+    background-image: url("https://d2clawv67efefq.cloudfront.net/ccbp-responsive-website/vr-products-headset-with-controllers-img.png");
+    background-size: cover;
+}
+.card {
+    width: 100%;
+    height: 600px;
+}
+.sub-heading {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 22px;
+}
+.description {
+    color: #ffffff;
+    font-size: 16px;
+    font-family: "Roboto";
+}
+.button1 {
+    color: #ffffff;
+    background-color: #1754a1;
+    border-radius: 5px;
+    width: 135px;
+    height: 40px;
+    border-width: 0px;
+}
