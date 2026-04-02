@@ -1,0 +1,43 @@
+.bg-container {
+    background-color: #ffffff;
+    background-size: cover;
+}
+
+.heading {
+    color: #183b56;
+    font-weight: 700;
+    font-size: 36px;
+    font-family: "Roboto";
+}
+
+.paragraph {
+    color: #616c7c;
+    font-size: 18px;
+    font-family: "Roboto";
+}
+
+.card-container {
+    background-color: #ffffff;
+    border-radius: 2px;
+    border-width: 0px;
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+}
+
+.image {
+    width: 80px;
+}
+
+.sub-heading {
+    color: #1f2933;
+    font-size: 20px;
+    font-family: "Roboto";
+    font-weight: 500;
+}
+
+.sub-paragraph {
+    color: #7b8794;
+    font-size: 14px;
+    font-family: "Roboto";
+}
