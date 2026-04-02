@@ -1,0 +1,25 @@
+.bg-container {
+    background-image: url("https://d2clawv67efefq.cloudfront.net/ccbp-responsive-website/portfolio-work-done-bg.png");
+    background-size: cover;
+    height:70vh;
+    
+}
+.icon {
+    color:#ffffff;
+}
+.heading {
+    color: #ffffff;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: "Roboto";
+}
+.hr-line {
+    background-color: #ffffff;
+    width: 60px;
+}
+.paragraph {
+    color: #ffffff;
+    font-size: 15px;
+    font-family: "Roboto";
+    font-weight: bold;
+}
