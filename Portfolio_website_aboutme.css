@@ -1,0 +1,50 @@
+.bg-container {
+    background-color: #323f4b;
+    background-size: cover;
+}
+.about-me-section-sub-heading {
+    color: #cced00;
+    font-size: 20px;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+.about-me-section-heading {
+    color: #ffffff;
+    font-size: 33px;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+.image {
+    width: 100%;
+}
+.about-me-section-description {
+    color: #9aa5b1;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+.bottom-section-bg-container {
+    background-color: #1f2933;
+    background-size: cover;
+}
+.skills-section-sub-heading {
+    color: #cced00;
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: bold;
+}
+.skills-card {
+    border-radius: 8px;
+    background-color: #323f4b;
+    padding: 10px;
+}
+.image2 {
+    height: 64px;
+    width: 64px;
+}
+.skills-card-title {
+    color: #ffffff;
+    font-size: 22px;
+    font-weight: bold;
+    font-family: "Roboto";
+    margin-top: 10px;
+}
