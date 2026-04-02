@@ -1,0 +1,37 @@
+.bg-container {
+    background-color: #52606d;
+    background-size: cover;
+
+    width: 100%;
+}
+.heading {
+    color: #cced00;
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: bold;
+}
+.sub-heading {
+    color: #ffffff;
+    font-size: 30px;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+.static-container {
+    background-color: #323f4b;
+    border-radius: 7px;
+}
+.image {
+    height: 40px;
+    width: 40px;
+}
+.main-heading {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 25px;
+}
+.paragraph {
+    color: #9aa5b1;
+    font-family: "Roboto";
+    font-size: 23px;
+}
