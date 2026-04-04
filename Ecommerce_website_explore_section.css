@@ -1,0 +1,39 @@
+.bg-container {
+    background-color: #f5f7fa;
+    background-size: cover;
+}
+.heading {
+    color: #183b56;
+    font-weight: bold;
+    font-family: "Roboto";
+    font-size: 36px;
+}
+.text-container {
+    color: #ff9f00;
+    font-family: "Roboto";
+    font-size: 14px;
+    font-weight: bold;
+}
+.card-container {
+    background-color: #ffffff;
+    border-radius: 8px;
+}
+.side-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 25px;
+}
+.explore-card-image-container{
+    padding:10px;
+}
+.image {
+    border-radius: 20px;
+    width: 100%;
+}
+.paragraph {
+    color: #1f2933;
+    font-family: "Roboto";
+    font-size: 15px;
+}
+

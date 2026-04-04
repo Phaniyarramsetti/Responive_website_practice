@@ -1,0 +1,35 @@
+.heading {
+    color: #183b56;
+    font-size: 36px;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+.bottom-section-card {
+    background-color: #ffffff;
+    background-size: cover;
+    border-radius: 7px;
+    border-width: 0px;
+}
+.sub-heading {
+    color: #959ead;
+    font-family: "Roboto";
+    font-size: 14px;
+    font-weight:500;
+}
+.paragraph1 {
+    color: #959ead;
+    font-family: "Roboto";
+    font-size: 20px;
+}
+.main-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 24px;
+}
+.logo {
+    color: #ff9f00;
+    font-size: 14px;
+    font-weight: bold;
+    font-family:"Roboto";
+}

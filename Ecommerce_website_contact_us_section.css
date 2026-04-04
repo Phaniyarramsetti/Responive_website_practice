@@ -1,0 +1,22 @@
+.bg-container {
+    background-color: #f5f7fa;
+    background-size: cover;
+}
+.heading {
+    color: #183b56;
+    font-size: 32px;
+    font-weight: bold;
+    font-family: "Roboto";
+}
+.button {
+    color: #ff9f00;
+    border-width: 2px;
+    border-color: #ff9f00;
+    border-style:solid;
+    font-family:"Roboto";
+    font-size:18px;
+    font-weight:500;
+    background-color: transparent;
+    height: 43px;
+    width: 140px;
+}
