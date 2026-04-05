@@ -1,0 +1,60 @@
+.nav-bg {
+    background-color: #0C0521;
+}
+.logo {
+    height: 40px;
+    width: 163px;
+}
+#image {
+    color: #ffffff;
+    font-weight: bold;
+}
+#image1 {
+    color: #ffffff;
+    font-weight: bold;
+}
+#image2 {
+    color: #ffffff;
+    font-weight: bold;
+}
+#image3 {
+    color: #ffffff;
+    font-weight: bold;
+}
+#image4 {
+    color: #ffffff;
+    font-weight: bold;
+}
+.bg-container {
+    background-image: url("https://assets.ccbp.in/frontend/responsive-website/landing-section-bg.png");
+    background-size: cover;
+    padding: 10px;
+}
+.heading {
+    color: #ffffff;
+    font-size: 25px;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+.mask {
+    color: #FFDDA9;
+    font-size: 25px;
+    font-weight: bold;
+    font-family: "Roboto";
+}
+.paragraph {
+    color: #ffffff;
+    font-size: 15px;
+    font-family: "Roboto";
+}
+.button {
+    color: #0c0521;
+    font-size: 13px;
+    font-weight: bold;
+    font-family: "Roboto";
+    background-color: #FFDDA9;
+    border-radius: 20px;
+    border-width: 0px;
+    height: 40px;
+    width: 150px;
+}

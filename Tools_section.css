@@ -1,0 +1,19 @@
+.card-container {
+    color: #ffffff;
+    padding: 10px;
+    margin: 10px;
+}
+.image {
+    height: 60vh;
+}
+.heading {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: bold;
+}
+.paragraph {
+    color: #7b8794;
+    font-size: 13px;
+    font-family: "Roboto";
+}
