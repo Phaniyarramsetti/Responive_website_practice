@@ -15,8 +15,12 @@
     font-weight: bold;
 }
 .image {
-    width: 100%;
+    width: 80%;
+    height:55vh;
+    border-top-right-radius:40px;
+    border-bottom-left-radius:40px;
 }
+    
 .about-me-section-description {
     color: #9aa5b1;
     font-family: "Roboto";
